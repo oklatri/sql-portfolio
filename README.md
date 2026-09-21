@@ -57,7 +57,7 @@
 - [SQL-файл](queries/04-aggregations.sql)
 - [Скриншоты](screenshots/) — 3 запроса
 
-  ### 05. Data Validation — проверка целостности
+### 05. Data Validation — проверка целостности
 
 - [SQL-файл](queries/05-data-validation.sql)
 - [Скриншоты](screenshots/) — 5 запросов
