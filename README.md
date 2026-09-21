@@ -41,7 +41,7 @@
 
 - [SQL-файл](queries/01-select-basics.sql)
 - [Скриншоты](screenshots/) — 5 запросов
-- 
+
 ### 02. JOIN — объединение таблиц
 
 - [SQL-файл](queries/02-joins.sql)
