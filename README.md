@@ -51,3 +51,8 @@
 
 - [SQL-файл](queries/03-group-by.sql)
 - [Скриншоты](screenshots/) — 3 запроса
+
+### 04. Агрегатные функции
+
+- [SQL-файл](queries/04-aggregations.sql)
+- [Скриншоты](screenshots/) — 3 запроса
