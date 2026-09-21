@@ -46,3 +46,8 @@
 
 - [SQL-файл](queries/02-joins.sql)
 - [Скриншоты](screenshots/) — 4 запроса
+
+### 03. GROUP BY — группировка
+
+- [SQL-файл](queries/03-group-by.sql)
+- [Скриншоты](screenshots/) — 3 запроса
